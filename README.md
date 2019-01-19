@@ -8,6 +8,7 @@ $ docker-compose up -d
 
 js、sass作業
 
-``` assets
+```
+// assetsディレクトリに移動
 $ yarn start
 ```
