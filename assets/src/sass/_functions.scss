@@ -1,0 +1,6 @@
+$z-map: (
+);
+
+@function z($name) {
+  @return index($z-map, $name);
+}
